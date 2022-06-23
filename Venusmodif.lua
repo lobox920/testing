@@ -63,35 +63,6 @@ local themes = {
         TabBackground = Color3.fromRGB(235, 235, 235),
         TabToggleEnabled = Color3.fromRGB(225, 225, 225),
         Slider = Color3.fromRGB(225, 225, 225)
-    },
-    Purple = {
-        TextColor = Color3.fromRGB(255, 255, 255),
-        MainFrame = Color3.fromRGB(105, 20, 255),
-        TabBackground = Color3.fromRGB(290, 10, 245),
-        Tab = Color3.fromRGB(105, 20, 255),
-        EnabledText = Color3.fromRGB(255, 255, 255),
-        DisabledText = Color3.fromRGB(180, 180, 180),
-        TabToggleEnabled = Color3.fromRGB(30, 30, 30),
-        TabToggleDisabled = Color3.fromRGB(5, 5, 5),
-        TabToggleDisabledMouseOver = Color3.fromRGB(20, 20, 20),
-        Section = Color3.fromRGB(20, 20, 20),
-        Button = Color3.fromRGB(30, 30, 30),
-        ButtonMouseOver = Color3.fromRGB(40, 40, 40),
-        ToggleEnabled = Color3.fromRGB(179, 129, 148),
-        ToggleEnabledMouseOver = Color3.fromRGB(209, 159, 178),
-        ToggleDisabled = Color3.fromRGB(30, 30, 30),
-        ToggleDisabledMouseOver = Color3.fromRGB(40, 40, 40),
-        Box = Color3.fromRGB(30, 30, 30),
-        BoxFocused = Color3.fromRGB(40, 40, 40),
-        Slider = Color3.fromRGB(30, 30, 30),
-        SliderMouseOver = Color3.fromRGB(40, 40, 40),
-        SliderFill = Color3.fromRGB(179, 129, 148),
-        SliderFillSliding = Color3.fromRGB(209, 159, 178),
-        Dropdown = Color3.fromRGB(30, 30, 30),
-        DropdownMouseOver = Color3.fromRGB(40, 40, 40),
-        DropdownContent = Color3.fromRGB(20, 20, 20),
-        ColorPicker = Color3.fromRGB(20, 20, 20),
-        ColorPickerBoxes = Color3.fromRGB(30, 30, 30)
     }
 }
 
